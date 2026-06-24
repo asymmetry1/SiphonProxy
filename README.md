@@ -16,7 +16,7 @@ Prerequisite:
 - [ngrok auth token](https://ngrok.com)
 
 ```bash
-git clone [https://github.com/yourusername/SiphonProxy.git](https://github.com/yourusername/SiphonProxy.git)
+git clone https://github.com/asymmetry1/SiphonProxy.git
 cd SiphonProxy
 pip install -r requirements.txt
 ```
